@@ -135,7 +135,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or suggestions:
 
-Email: 3530737759@qq.com/ swc060819@qq.com/ 2024141520288@stu.scu.edu.com
+Email: 3530737759@qq.com/ 2024141520288@stu.scu.edu.com
 
 ## ❤️Special Thanks
 
