@@ -139,7 +139,7 @@ Email: 3530737759@qq.com/ 2024141520288@stu.scu.edu.com
 
 ## ❤️Special Thanks
 
-This project was developed with the assistance of DeepSeek , which provided invaluable guidance, code review, and technical explanations throughout the development process.
+This project was developed with the assistance of DeepSeek AI, which provided invaluable guidance, code review, and technical explanations throughout the development process.
 
 ---
 
